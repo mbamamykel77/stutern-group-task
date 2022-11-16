@@ -79,3 +79,30 @@ body {
   text-align: center;
   
 }
+
+.daniel-container {
+  background-color: rgb(130, 157, 216);
+  height: 300px;
+  width: 290px;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 2px 1px 20px 5px rgb(6, 66, 151);
+  border-radius: 15px;
+}
+
+.daniel-container > h2 {
+  text-align: center;
+  background-color: rgb(139, 79, 0);
+  color: white;
+  border: 1px white groove;
+  border-radius: 20px;
+}
+
+.daniel-container ul {
+  list-style: "↓  ";
+}
+
+.social-daniel {
+  text-align: center;
+  
+}
