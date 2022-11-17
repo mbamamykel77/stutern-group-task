@@ -143,3 +143,39 @@ body {
   line-height: none;
   
 }
+/* ogechi juliet uhegbu CSS */
+.ogechi_container {
+  background-color: chartreuse;
+  /* height: 300px; */
+  width: 290px;
+  margin: 20px;
+  padding: 10px;
+  color: black;
+  box-shadow: 2px 1px 20px 5px grey;
+  border-radius: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.ogechi_container > h2 {
+  text-align: center;
+  background-color: rgb(55, 103, 7);
+  color: white;
+  border: none;
+  box-shadow: 2px 1px 20px 5px grey;
+  border-radius: 50px;
+}
+
+.ogechi_container ul {
+  list-style: circle;
+}
+
+.social_ogechi {
+  text-align: center;
+  
+}
+.social_ogechi a{
+  text-decoration: none;
+  word-spacing: 20px;
+}
