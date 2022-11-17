@@ -179,3 +179,30 @@ body {
   text-decoration: none;
   word-spacing: 20px;
 }
+
+.victoria-container {
+  background-color: rgb(249, 208, 230);
+  height: 350px;
+  width: 290px;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 2px 1px 20px 5px rgb(2, 14, 32);
+  border-radius: 15px;
+}
+
+.victoria-container > h2 {
+  text-align: center;
+  background-color: rgb(90, 41, 239);
+  color: white;
+  border: 1px white groove;
+  border-radius: 20px;
+}
+
+.victoria-container ul {
+  list-style: armenian;
+}
+
+.social-victoria {
+  text-align: center;
+  
+}
